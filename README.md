@@ -30,8 +30,7 @@ This coupling is ideal for low- to medium-torque applications where shaft alignm
 
 ## 🖼 Preview
 
-![Oldham Coupling Assembly](<img width="1508" height="1254" alt="image" src="https://github.com/user-attachments/assets/bff82cd8-4ca5-423a-84e6-f9619ad8a673" />
-)
+<img width="1508" height="1254" alt="image" src="https://github.com/user-attachments/assets/bff82cd8-4ca5-423a-84e6-f9619ad8a673" />
 
 > *Fully assembled view of the Oldham's Coupling mounted on a testing frame*
 
